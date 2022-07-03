@@ -10,6 +10,6 @@ Dieser code steht frei für veränderungen! Bitte geben sie diesen Code nicht Al
 
 Achtung um die Py zu benutzen must du die Packages **Pyautogui** installieren!
 
-Du findest pyautogui hier: **https://pypi.org/project/PyAutoGUI/**
+Du findest pyautogui hier: **[pypi.org](https://pypi.org/project/PyAutoGUI/)**
 
 Oder mit Commando zeile (Python 3 / Anaconda ): **pip install PyAutoGUI**
